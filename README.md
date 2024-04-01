@@ -37,7 +37,7 @@
 ## 화면소개
 
 ### 홈 화면
-<img src="./exec/readme_asset/gif/HOME화면 (1).gif" alt="GIF 이미지" width="200">
+<img src="./exec/readme_asset/gif/HOME화면 (1).gif" alt="GIF 이미지" width="300">
 <br>
 <br>
 
@@ -49,7 +49,7 @@
 <br>
 
 ### 자동매매 매수감시
-<img src="./exec/readme_asset/gif/자동매매-매수감시.gif" alt="GIF 이미지" width="200">
+<img src="./exec/readme_asset/gif/자동매매-매수감시.gif" alt="GIF 이미지" width="300">
 <br>
 <br>
 
@@ -62,7 +62,7 @@
 <br>
 
 ### 자동매매 매도감시
-<img src="./exec/readme_asset/gif/자동매매-매도.gif" alt="GIF 이미지" width="200">
+<img src="./exec/readme_asset/gif/자동매매-매도.gif" alt="GIF 이미지" width="300">
 <br>
 <br>
 
@@ -76,7 +76,7 @@
 <br>
 
 ### 자동매매 내역
-<img src="./exec/readme_asset/gif/자동매매-내역-화면.gif" alt="GIF 이미지" width="200">
+<img src="./exec/readme_asset/gif/자동매매-내역-화면.gif" alt="GIF 이미지" width="300">
 <br>
 <br>
 
@@ -87,7 +87,7 @@
 <br>
 
 ### 주식 차트 화면
-<img src="./exec/readme_asset/gif/주식-현재가-화면.gif" alt="GIF 이미지" width="200">
+<img src="./exec/readme_asset/gif/주식-현재가-화면.gif" alt="GIF 이미지" width="300">
 <br>
 <br>
 
@@ -98,7 +98,7 @@
 <br>
 
 ### 주식 호가창 화면
-<img src="./exec/readme_asset/gif/주식-호가창.gif" alt="GIF 이미지" width="200">
+<img src="./exec/readme_asset/gif/주식-호가창.gif" alt="GIF 이미지" width="300">
 <br>
 <br>
 
@@ -109,7 +109,7 @@
 <br>
 
 ### AI 분석 서비스 내역
-<img src="./exec/readme_asset/gif/AI-분석-서비스-내역.gif" alt="GIF 이미지" width="200">
+<img src="./exec/readme_asset/gif/AI-분석-서비스-내역.gif" alt="GIF 이미지" width="300">
 <br>
 <br>
 
@@ -120,7 +120,7 @@
 <br>
 
 ### 사용자 잔고 내역
-<img src="./exec/readme_asset/gif/사용자-잔고내역.gif" alt="GIF 이미지" width="200">
+<img src="./exec/readme_asset/gif/사용자-잔고내역.gif" alt="GIF 이미지" width="300">
 <br>
 <br>
 
