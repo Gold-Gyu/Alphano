@@ -63,7 +63,7 @@
 
 ### DevOps
 
-| <img src="https://www.nginx.com/wp-content/uploads/2020/05/NGINX-product-icon.svg"  alt="HTML5" width="100px" height="100px" /> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/300px-Amazon_Web_Services_Logo.svg.png"  alt="HTML5" width="100px" height="100px" /> | <img src="https://i.namu.wiki/i/08UdmuCr95pg5aRCf3wNhW4KNAFQwLpCeTwIfWkNBGBodQ8pWIGB7Sqv-180bwpfE9Aa5l9LUKNxKA3yZvHQOgWkHIb92zyHTleC35tCFWYe-irT-KqHjdzc3SuhqtZ9Wtgu8AWdGHezu5drYdihCA.svg"  alt="HTML5" width="100px" height="100px" /> | <img src="https://i.namu.wiki/i/FjgNRhrYgRD3l_QctPVceyVlYxI0Tz5GkkBraVMQm-C_8ca_zsLHeeWOEz2r3VxfSB4w8BXoHMzUqsUX340IU866OsSbq6KM3D1auKvWN8WR10eFOyE_5i3nYiOBFw5PQ9seki0hh_9bic8Ou5BTJg.webp"  alt="openVidu" width="100px" height="100px" /> |
+| <img src="https://www.nginx.com/wp-content/uploads/2020/05/NGINX-product-icon.svg"  alt="HTML5" width="100px" height="100px" /> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/300px-Amazon_Web_Services_Logo.svg.png"  alt="HTML5" width="100px" height="100px" /> | <img src="https://i.namu.wiki/i/08UdmuCr95pg5aRCf3wNhW4KNAFQwLpCeTwIfWkNBGBodQ8pWIGB7Sqv-180bwpfE9Aa5l9LUKNxKA3yZvHQOgWkHIb92zyHTleC35tCFWYe-irT-KqHjdzc3SuhqtZ9Wtgu8AWdGHezu5drYdihCA.svg"  alt="HTML5" width="100px" height="100px" /> | <img src="https://i.namu.wiki/i/WCo7QP1axqabtZTZMd2CX7WY-pVNWFHERzscqPyA4Phhk_ca69PpwuMMWIjkO7mACuohl7G5X8y1Rerp2JbWcglou533ilfamAlo3kcG6mLsnjLRq0X3nmMifPvmGBIGm6IIok4_Ugwhrd_QPIoi4Q.svg"  alt="openVidu" width="100px" height="100px" /> |
 |:-------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 |                                                              NGINX                                                              |                                                                                        aws EC2                                                                                        |                                                                                                                  Docker                                                                                                                  |                                                                                                                   jenkins                                                                                                                    |
 
@@ -123,10 +123,10 @@
             </a> 
         </td>
         <td style="min-width: 150px;">
-            <a href="https://github.com/lukylun">
+            <a href="https://github.com/Gold-Gyu">
               <img src="./exec/readme_asset/profile/lgk.png" width="200">
               <br />
-              <b></b>
+              <b>Gold-Gyu</b>
             </a> 
         </td>
     </tr>
@@ -147,7 +147,7 @@
             임준환<br/>FE & INFRA(FE)
         </td>
         <td>
-            이금규<br/>FE
+            이금규<br/>FE (LEAD)
         </td>
     </tr>
 </table>
